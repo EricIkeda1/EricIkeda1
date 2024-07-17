@@ -6,21 +6,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EricIkeda1.EricIkeda1&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
-<p align="left">Sobre mim.<br><br>- 🔭 Cursando Engenharia de Software.</p>
+<p align="left">- 🔭 Cursando Engenharia de Software.</p>
 
 ###
 
-<h3 align="left">🛠 Tecnologias Utilizadas Nos Projetos</h3>
+<h3 align="left">🛠 Tecnologias Utilizados Nos Projetos</h3>
 
 ###
 
@@ -40,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
 ###
