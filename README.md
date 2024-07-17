@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Meu Status:</h3>
 
 ###
 
