@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Cursando Engenharia de Software.</p>
+<p align="left">- 🔭 Estudante de Engenharia de Software, com interesse em desenvolvimento de sistemas Frontend e Backend</p>
 
 ###
 
