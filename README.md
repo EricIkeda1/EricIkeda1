@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Estudante de Engenharia de Software, com interesse em desenvolvimento de sistemas Frontend e Backend</p>
+<p align="left">- 🔭 Estudante de Engenharia de Software, com interesse em desenvolvimento de Frontend e Backend</p>
 
 ###
 
