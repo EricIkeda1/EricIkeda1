@@ -22,7 +22,7 @@
 | :------------------------------------------- | :-------------------------------- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python" /> **Python & Django**       | Backend robusto e eficiente         |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" /> **TypeScript** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" /> **React** | Interfaces modernas e reativas      |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28" alt="Flutter" /> **Flutter** & Android          | Apps mobile cross-platform          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28" alt="Flutter" /> **Flutter** & Android          | Apps mobile |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git" /> **Git** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub" /> **GitHub**     | Controle de versão e colaboração    |
 
 </div>
