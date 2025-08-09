@@ -39,4 +39,4 @@
 ---
 
 > 💡 Gosto de desafios que me tiram da zona de conforto são eles que me fazem crescer como dev.  
-> 📬 Quer trocar uma ideia ou desenvolver algo juntos? Me chama no [LinkedIn](https://www.linkedin.com/in/ericikeda1/)!
+> 📬 Quer trocar uma ideia? Me chama no [LinkedIn](https://www.linkedin.com/in/ericikeda1/)!
