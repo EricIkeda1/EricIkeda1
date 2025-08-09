@@ -1,38 +1,41 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/ericikeda1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/ericikeda1/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
 </div>
 
 ---
 
-## 👋 Olá, eu sou o Eric!
+# Olá, eu sou o **Eric Ikeda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="32" />
 
-- Sou estudante de **Engenharia de Software**, apaixonado por criar soluções que unem criatividade e tecnologia.  
-- Gosto de explorar o mundo do **Frontend** e do **Backend**, aprendendo cada dia mais sobre desenvolvimento web e mobile.  
-- Curto transformar ideias em projetos reais e funcionais, sempre buscando melhorar minhas habilidades.  
-
----
-
-## 🚀 Tecnologias que uso no dia a dia
-
-Já utilizei (e continuo aprendendo) com várias ferramentas e linguagens, como:
-
-🐍 **Python** com **Django**  
-⚛️ **TypeScript** e **React** para interfaces modernas  
-📱 **Flutter** e desenvolvimento Android  
-🖥  **Git** e **GitHub** para organização e versionamento  
+- Sou um apaixonado por **Engenharia de Software** que ama transformar ideias em soluções digitais reais e funcionais.  
+- Exploro diariamente o universo do desenvolvimento **Frontend** e **Backend**, sempre buscando aprender mais, superar desafios e criar experiências incríveis para os usuários.
 
 ---
 
-## 📊 Meu status no GitHub
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricIkeda1&locale=pt-br&layout=compact&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=EricIkeda1&locale=pt-br&mode=daily&theme=dracula&hide_border=false" height="150" />
+
+| Tecnologia                                    | Descrição                          |
+| :------------------------------------------- | :-------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" alt="Python" /> **Python & Django**       | Backend robusto e eficiente         |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" /> **TypeScript** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" /> **React** | Interfaces modernas e reativas      |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="28" alt="Flutter" /> **Flutter** & Android          | Apps mobile cross-platform          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" alt="Git" /> **Git** & <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub" /> **GitHub**     | Controle de versão e colaboração    |
+
 </div>
 
 ---
 
-💡 **Curiosidade:** adoro desafios de programação e projetos que me tiram da zona de conforto.  
-📬 **Contato:** Se quiser trocar uma ideia ou trabalhar em algo junto, é só me chamar no [LinkedIn](https://www.linkedin.com/in/ericikeda1/).
+## 📈 Meu GitHub em números
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricIkeda1&locale=pt-br&layout=compact&theme=dracula" height="150" alt="Top linguagens" />
+  <img src="https://streak-stats.demolab.com?user=EricIkeda1&locale=pt-br&mode=daily&theme=dracula" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+> 💡 Gosto de desafios que me tiram da zona de conforto — são eles que me fazem crescer como dev.  
+> 📬 Quer trocar uma ideia ou desenvolver algo juntos? Me chama no [LinkedIn](https://www.linkedin.com/in/ericikeda1/)!
