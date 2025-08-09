@@ -19,9 +19,9 @@
 Já utilizei (e continuo aprendendo) com várias ferramentas e linguagens, como:
 
 🐍 **Python** com **Django**  
-⚛️ **React** para interfaces modernas  
+⚛️ **TypeScript** e **React** para interfaces modernas  
 📱 **Flutter** e desenvolvimento Android  
-🖥 **TypeScript**, **Git** e **GitHub** para organização e versionamento  
+🖥  **Git** e **GitHub** para organização e versionamento  
 
 ---
 
