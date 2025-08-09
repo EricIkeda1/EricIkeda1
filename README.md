@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 Estatísticas do meu GitHub Meu GitHub em números
+## 📈 Estatísticas do meu GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricIkeda1&locale=pt-br&layout=compact&theme=dracula" height="150" alt="Top linguagens" />
