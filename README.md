@@ -8,8 +8,9 @@
 
 # Olá, eu sou o **Eric Ikeda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="32" />
 
-- Sou um apaixonado por **Engenharia de Software** que ama transformar ideias em soluções digitais reais e funcionais.  
-- Exploro diariamente o universo do desenvolvimento **Frontend** e **Backend**, sempre buscando aprender mais, superar desafios e criar experiências incríveis para os usuários.
+- Curto muito trabalhar com **Engenharia de Software**, transformando ideias em soluções digitais que realmente funcionam e fazem a diferença.  
+- Todos os dias me envolvo com o desenvolvimento **Frontend** e **Backend**, aprendendo a usar novas tecnologias, aprimorando ideias, superando desafios e criando experiências digitais que impactam quem usa.  
+
 
 ---
 
@@ -37,5 +38,5 @@
 
 ---
 
-> 💡 Gosto de desafios que me tiram da zona de conforto — são eles que me fazem crescer como dev.  
+> 💡 Gosto de desafios que me tiram da zona de conforto são eles que me fazem crescer como dev.  
 > 📬 Quer trocar uma ideia ou desenvolver algo juntos? Me chama no [LinkedIn](https://www.linkedin.com/in/ericikeda1/)!
