@@ -9,7 +9,7 @@
 ## 👋 Olá, eu sou o Eric!
 
 - Sou estudante de **Engenharia de Software**, apaixonado por criar soluções que unem criatividade e tecnologia.  
-- Gosto de explorar o mundo do **Frontend** e do **Backend**, aprendendo cada dia mais sobre desenvolvimento web, mobile e inteligência artificial.  
+- Gosto de explorar o mundo do **Frontend** e do **Backend**, aprendendo cada dia mais sobre desenvolvimento web e mobile.  
 - Curto transformar ideias em projetos reais e funcionais, sempre buscando melhorar minhas habilidades.  
 
 ---
