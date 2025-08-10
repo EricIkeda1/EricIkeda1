@@ -24,7 +24,7 @@
     <strong>Bacharelado</strong><br />
     <a href="https://www.unisenaipr.com.br" target="_blank" rel="noopener noreferrer">UniSenaiPR</a><br />
     Ensino Superior em Engenharia de Software<br />
-    <small>Julho de 2021 – Dezembro de 2026 (previsão)</small>
+    <small>Julho de 2021 - Dezembro de 2026 (previsão)</small>
   </p>
 </div>
 
