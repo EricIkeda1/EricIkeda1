@@ -14,6 +14,22 @@
 
 ---
 
+## 🎓 Formação Acadêmica
+
+<div> 
+  <a href="https://www.unisenaipr.com.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://tse1.mm.bing.net/th/id/OIP.wz3nFNOB_HoLXV4CdLXlAQHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="UniSenaiPR Logo" width="74" align="left" style="border-radius: 5px; margin-right: 15px;" />
+  </a>
+  <p>
+    <strong>Bacharelado</strong><br />
+    <a href="https://www.unisenaipr.com.br" target="_blank" rel="noopener noreferrer">UniSenaiPR</a><br />
+    Ensino Superior em Engenharia de Software<br />
+    <small>Julho de 2021 – Dezembro de 2026 (previsão)</small>
+  </p>
+</div>
+
+---
+
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
