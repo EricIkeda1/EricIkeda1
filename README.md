@@ -9,7 +9,7 @@
 # Olá, eu sou o **Eric Ikeda** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="32" />
 
 - Curto muito aprender sobre **Engenharia de Software**, transformando ideias em soluções digitais que realmente funcionam e fazem a diferença.  
-- Todos os dias me envolvo com o desenvolvimento **Frontend** e **Backend**, aprendendo a usar novas tecnologias, aprimorando ideias, superando desafios e criando experiências digitais que impactam quem usa.  
+- Todos os dias me envolvo com o desenvolvimento **Frontend** e **Backend**, aprendendo a usar novas tecnologias, aprimorando ideias, superando desafios e criando experiências digitais.  
 - Também curto alguns jogos para relaxar e aproveitar meu tempo livre.
 
 ---
