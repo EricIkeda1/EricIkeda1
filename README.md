@@ -30,6 +30,26 @@
 
 ---
 
+## 💻 Projetos
+
+### [Temperlights-Mobile](https://github.com/EricIkeda1/Temperlights-Mobile) 📱
+Aplicativo mobile em **Flutter**, desenvolvido em equipe para **automatizar o registro de informações de uma empresa**.  
+Integra-se ao **Supabase** e utiliza **OCR** e leitura de **códigos de barras** para extrair informações, eliminando digitação manual, reduzindo erros e agilizando processos.
+
+- 🔹 Registro automatizado de informações
+- 🔹 Integração com Supabase em tempo real
+- 🔹 OCR e leitura de códigos de barras
+- 🔹 Interface intuitiva e responsiva
+
+[![GitHub Repo](https://img.shields.io/badge/Repositório-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/EricIkeda1/Temperlights-Mobile)
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
+
+### [Meu Portfólio](https://ericikedaportfolio.vercel.app/home) 🌐
+Confira todos os meus projetos, experiências e skills no **portfólio online**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-blue?style=for-the-badge&logo=googlesites)](https://ericikedaportfolio.vercel.app/home)
+
+
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
